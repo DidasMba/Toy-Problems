@@ -27,7 +27,8 @@ print(convert_to_24_hour(8, 30, "am"))
 print(two_positive(2, 4, -3))
 print(solve("zodiacs"))
 
-## Setup
+
+#Setup
 
 1.  Clone the repository to your local machine.
 
@@ -47,4 +48,7 @@ Didas Mbarushimana daniel
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+
+
+
 
