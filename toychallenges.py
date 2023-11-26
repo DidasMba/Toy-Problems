@@ -33,7 +33,7 @@ print(two_positive(-4, 6, 8))  # Expected output: True
 print(two_positive(4, -6, 9))  # Expected output: True
 print(two_positive(-4, 6, 0))  # Expected output: False
 print(two_positive(4, 6, 10))  # Expected output: False
-print(two_positive(-14, -3, -4))  # Expected output: False
+print(two_positive(-14, -3, -4)) # Expected output: False
 
 # Test for Challenge 3
 print(solve("zodiacs"))  # Expected output: 26
